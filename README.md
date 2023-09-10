@@ -2,4 +2,4 @@
 
 Anforderungen liegen in "Specifications.pdf" 
 
-High Code Beispiel liegt in ... 
+High Code Beispiel liegt in "searchBar-highCode" 
