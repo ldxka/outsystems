@@ -6,7 +6,7 @@ Anforderungen: "Specifications.pdf"
 
 High Code Beispiel für eine Searchbar in Javascript (Node.js im Backend):   
   Frontend: "frontend.js" 
-  Backend: "bakcend.js" 
+  Backend: "backend.js" 
 
 
   Präsentation: "prasentation.pdf" 
